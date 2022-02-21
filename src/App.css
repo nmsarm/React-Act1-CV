@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,35 @@
   to {
     transform: rotate(360deg);
   }
+} */
+
+.profile-img {
+  display: block;
+  width: 90%;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.educ-img {
+  display: block;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+.hr-right {
+  width: 20%;
+  background-color: #4E86AA;
+}
+
+table, th, td{
+  border: 1px solid black;
+  border-collapse: collapse;
+  text-align: center;
+}
+
+th {
+  background-color: #B9D8EC;
 }
