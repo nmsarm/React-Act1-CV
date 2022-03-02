@@ -41,3 +41,6 @@ class Seminars extends React.Component{
     }
 }
 export default Seminars;
+
+
+

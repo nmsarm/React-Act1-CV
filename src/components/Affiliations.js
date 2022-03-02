@@ -22,3 +22,6 @@ class Affiliations extends React.Component{
     }
 }
 export default Affiliations;
+
+
+

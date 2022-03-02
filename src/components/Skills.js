@@ -13,7 +13,7 @@ class Skills extends React.Component{
                             <p><b>Programming Languages & Frameworks</b></p>
                                 <ul>
                                     <li>HTML, CSS, JavaScript, Java, Visual Basic, PHP</li>
-                                    <li>Bootstrap. ReactJS</li>
+                                    <li>Bootstrap, ReactJS</li>
                                 </ul>
                             </li>
                         </ul>
@@ -35,3 +35,4 @@ class Skills extends React.Component{
     }
 }
 export default Skills;
+
